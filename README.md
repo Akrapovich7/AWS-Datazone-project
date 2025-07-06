@@ -1,4 +1,4 @@
-📡 AWS DataZone Data Publishing & Analytics for Calico Radio
+#📡 AWS DataZone Data Publishing & Analytics for Calico Radio
 This project demonstrates a complete data lifecycle workflow using AWS DataZone for Calico Radio, a fictional radio station, focusing on controlled data sharing and cross-team collaboration between a publishing team and an analytics team.
 
 📁 Project Structure
